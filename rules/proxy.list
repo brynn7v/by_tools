@@ -25,3 +25,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 特例
 DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,api.onedrive.com
