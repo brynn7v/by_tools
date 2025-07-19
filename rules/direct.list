@@ -12,3 +12,6 @@ SRC-IP-CIDR,192.168.88.145/32
 SRC_IP-CIDR,192.168.88.175/32
 # other domains
 DOMAIN-SUFFIX,rewards.bing.com
+# git
+USER-AGENT,git/*
+DST-PORT,22
