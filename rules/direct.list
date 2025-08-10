@@ -14,6 +14,8 @@ SRC_IP-CIDR,192.168.88.175/32
 DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,edukaku.club
 DOMAIN-SUFFIX,shopmygiftcards.com
+DOMAIN-SUFFIX,rewardsplatform.microsoft.com
+DOMAIN-SUFFIX,rewardscdn.sapphire.microsoftapp.net
 # git
 USER-AGENT,git/*
 DST-PORT,22
