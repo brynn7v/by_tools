@@ -9,7 +9,7 @@ IP-CIDR,43.133.175.227/32
 IP-CIDR,47.254.66.204/32
 # local_IP
 SRC-IP-CIDR,192.168.88.145/32
-SRC_IP-CIDR,192.168.88.175/32
+SRC-IP-CIDR,192.168.88.175/32
 # other domains
 DOMAIN-SUFFIX,rewards.bing.com
 DOMAIN-SUFFIX,edukaku.club
@@ -17,5 +17,4 @@ DOMAIN-SUFFIX,shopmygiftcards.com
 DOMAIN-SUFFIX,rewardsplatform.microsoft.com
 DOMAIN-SUFFIX,rewardscdn.sapphire.microsoftapp.net
 # git
-USER-AGENT,git/*
 DST-PORT,22
