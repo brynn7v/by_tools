@@ -16,5 +16,6 @@ DOMAIN-SUFFIX,edukaku.club
 DOMAIN-SUFFIX,shopmygiftcards.com
 DOMAIN-SUFFIX,rewardsplatform.microsoft.com
 DOMAIN-SUFFIX,rewardscdn.sapphire.microsoftapp.net
+DOMAIN-SUFFIX,baidubaidu.win
 # git
 DST-PORT,22
