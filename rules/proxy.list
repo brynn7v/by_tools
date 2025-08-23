@@ -31,7 +31,10 @@ DOMAIN-SUFFIX,api.onedrive.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 
-#omnifocus
+# omnifocus
 DOMAIN-REGEX,^sync[0-9]*\.omnigroup\.com$
 DOMAIN-SUFFIX,push.omnigroup.com
+
+# plex
+DOMAIN-SUFFIX,plex.tv
 
