@@ -30,3 +30,7 @@ DOMAIN-SUFFIX,api.onedrive.com
 # tmdb
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
+
+#omnifocus
+DOMAIN-REGEX,^sync[0-9]*\.omnigroup\.com$
+
