@@ -33,5 +33,5 @@ DOMAIN-SUFFIX,tmdb.org
 
 #omnifocus
 DOMAIN-REGEX,^sync[0-9]*\.omnigroup\.com$
-DOMAIN,push.omnigroup.com
+DOMAIN-SUFFIX,push.omnigroup.com
 
