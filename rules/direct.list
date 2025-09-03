@@ -21,5 +21,7 @@ DOMAIN-SUFFIX,musicbed.com
 # git
 DST-PORT,22
 # google ads
-DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,gvt1.com
