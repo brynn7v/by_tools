@@ -20,5 +20,6 @@ DOMAIN-SUFFIX,baidubaidu.win
 DOMAIN-SUFFIX,musicbed.com
 # git
 DST-PORT,22
-
-
+# google ads
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
