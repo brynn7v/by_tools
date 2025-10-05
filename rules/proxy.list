@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,plex.tv
 # 69yun
 DOMAIN-SUFFIX,69yun69.com
 
+# docker
+DOMAIN-SUFFIX,ghcr.io
+
 # stboys
 DOMAIN-SUFFIX,stboy.net
 
