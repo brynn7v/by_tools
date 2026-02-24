@@ -57,3 +57,6 @@ DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,mytokencap.com
 DOMAIN-SUFFIX,mytoken.org
 DOMAIN-SUFFIX,mytoken.info
+
+#linkedin
+DOMAIN-SUFFIX,omtrdc.net
