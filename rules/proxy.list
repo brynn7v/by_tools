@@ -60,3 +60,6 @@ DOMAIN-SUFFIX,mytoken.info
 
 #linkedin
 DOMAIN-SUFFIX,omtrdc.net
+
+#epg
+DOMAIN-SUFFIX,112114.xyz
